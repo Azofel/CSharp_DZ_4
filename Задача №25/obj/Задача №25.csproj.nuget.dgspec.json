@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Не Задача 25\\Не Задача 25.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Задача №25\\Задача №25.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Не Задача 25\\Не Задача 25.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Задача №25\\Задача №25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Не Задача 25\\Не Задача 25.csproj",
-        "projectName": "Не Задача 25",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Не Задача 25\\Не Задача 25.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Задача №25\\Задача №25.csproj",
+        "projectName": "Задача №25",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Задача №25\\Задача №25.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Не Задача 25\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\C#_DZ_4\\Задача №25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
